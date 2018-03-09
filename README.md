@@ -6,5 +6,5 @@ Em determinadas aplicações, as pilhas e filas representam estruturas de dados 
 
 Exemplo FIFO(First In First Out) e LIFO(Last In First Out)
 
-<img src="imgs/fifolifo.jpg">
+<p align="center"><img src="imgs/fifolifo.jpg"></p>
 
